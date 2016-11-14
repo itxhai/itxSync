@@ -1,0 +1,9 @@
+E:\work\cshape\itxSync\itxSync\bin\Debug\itxSync.exe.config
+E:\work\cshape\itxSync\itxSync\bin\Debug\itxSync.exe
+E:\work\cshape\itxSync\itxSync\bin\Debug\itxSync.pdb
+E:\work\cshape\itxSync\itxSync\obj\Debug\itxSync.csprojResolveAssemblyReference.cache
+E:\work\cshape\itxSync\itxSync\obj\Debug\itxSync.Form1.resources
+E:\work\cshape\itxSync\itxSync\obj\Debug\itxSync.Properties.Resources.resources
+E:\work\cshape\itxSync\itxSync\obj\Debug\itxSync.csproj.GenerateResource.Cache
+E:\work\cshape\itxSync\itxSync\obj\Debug\itxSync.exe
+E:\work\cshape\itxSync\itxSync\obj\Debug\itxSync.pdb

@@ -1,0 +1,8 @@
+E:\work\cshape\itxSync\itxSync\bin\Release\itxSync.exe.config
+E:\work\cshape\itxSync\itxSync\bin\Release\itxSync.exe
+E:\work\cshape\itxSync\itxSync\bin\Release\itxSync.pdb
+E:\work\cshape\itxSync\itxSync\obj\Release\itxSync.Form1.resources
+E:\work\cshape\itxSync\itxSync\obj\Release\itxSync.Properties.Resources.resources
+E:\work\cshape\itxSync\itxSync\obj\Release\itxSync.csproj.GenerateResource.Cache
+E:\work\cshape\itxSync\itxSync\obj\Release\itxSync.exe
+E:\work\cshape\itxSync\itxSync\obj\Release\itxSync.pdb
